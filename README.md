@@ -1,3 +1,3 @@
-|table | Hi|
+| table | Hi|
 |-----|
-|table2 | HI|
+| table2 | HI|
